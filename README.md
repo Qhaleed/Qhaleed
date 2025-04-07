@@ -8,7 +8,7 @@ My current focus is on building fast, modern applications using:
 * **Rust:** For its raw power and performance.
 * **JavaScript:** For its boundless agility and web capabilities.
 
-I'm looking for collaborators who are as excited about building the future as I am. Let's connect and create something amazing together! ✨
+I'm looking for collaborators who are as excited about building awesome things as I am. Let's connect and create something amazing together! ✨
 
 **Are you:**
 
