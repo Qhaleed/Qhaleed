@@ -1,5 +1,7 @@
 # 💫 About Me
 
+* Senior Developer - Google Developer Groups Blue Eagles (2024-2025)
+
 I'm currently developing adzu-chat and I'm passionate about creating impactful, community-driven open-source projects. 
 
 My current focus is on building fast, modern applications using:
