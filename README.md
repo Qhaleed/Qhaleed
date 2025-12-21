@@ -3,7 +3,7 @@
 
 # About Me
 
-I'm a developer working on adzu-chat and other open-source projects. I enjoy building fast, modern applications with:
+I'm a developer working on DigiKumo and other open-source projects. 
 
 
 I'm always open to collaborating fr fr
